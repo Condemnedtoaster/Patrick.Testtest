@@ -1,0 +1,23 @@
+For at sætte en socket forbindelse op
+Er der brug for en Serverport og en IP adresse
+
+Fysisk lag: Her er ledninger og hardware med til at transportere
+data til og fra a - b
+
+Data Link: omdanner via protokoller formatet frames
+har for at virke på forskellige medier
+
+Network: angiver i hvilke omfang data med fordel kan sendes sammenlagt
+og i forhold til hvilke IP og adresser 
+
+Transport: End to end Connection
+TCP, UDP Protokollerne
+
+
+Raspbian is a version of Linux
+
+
+
+
+TCP NETVÆRK - Fordelen er at frem for en konstant strøm af data
+Kan der sendes i pakker pr minut. som fylder mindre
